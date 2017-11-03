@@ -1,0 +1,5 @@
+#write a program that print the numbers from 1 to 100. but for multiples of 
+three print "burrito" for multiples of 5 print " Cheeto" for multiples of
+seven print "veto" for multiples of three and 5 print "cheetoburrito and for 
+multiples of 5 and 7 print "cheetoveto" if they are all three print
+burritocheetoveto.
